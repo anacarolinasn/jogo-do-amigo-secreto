@@ -15,8 +15,8 @@ Este é um aplicativo web simples para adicionar nomes a uma lista e sortear um 
 
 *📦 Como Usar
 1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+   git clone (https://github.com/anacarolinasn/jogo-do-amigo-secreto)
    ```
 2. Abra o arquivo `index.html` em um navegador.
 3. Digite um nome no campo e clique em "Adicionar Amigo".
