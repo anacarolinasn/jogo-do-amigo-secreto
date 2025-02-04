@@ -28,5 +28,5 @@ Este é um aplicativo web simples para adicionar nomes a uma lista e sortear um 
 - Adicionar um botão para reiniciar a lista
 
 
-Feito com ❤️ por Nana (https://github.com/seu-usuario)
+Feito com ❤️ por Nana (https://github.com/anacarolinasn)
 
